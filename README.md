@@ -1,0 +1,2 @@
+Some of these files were given by my professor and others are novel materials to solve a 
+controls systems equation for balancing a ball upon a plate. This problem is similar to the control that might be needed to balance the roll of an airplane.
